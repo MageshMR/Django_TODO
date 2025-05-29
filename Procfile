@@ -1,2 +1,2 @@
 
-web: gunicorn yourprojectname.wsgi
+web: gunicorn todoproject.wsgi
